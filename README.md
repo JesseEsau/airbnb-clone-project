@@ -6,15 +6,17 @@ This project is a full-stack clone of the popular accommodation booking platform
 
 ### Design Goals
 
-Create intuitive booking flow
-Maintain visual consistency
-Ensure fast loading times
-Prioritize mobile responsiveness
-Key Features
-Property search and filtering
-Detailed property viewing
-Secure checkout process
-User authentication
+- Create intuitive booking flow
+- Maintain visual consistency
+- Ensure fast loading times
+- Prioritize mobile responsiveness
+
+**Key Features**
+
+- Property search and filtering
+- Detailed property viewing
+- Secure checkout process
+- User authentication
 
 ### Primary Pages
 
